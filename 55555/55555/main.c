@@ -40,7 +40,8 @@ void drawWindow(int width, int height)
 
     // 창 내부 상단 추가 선
     gotoxy(1, 1);
-    for (int i = 1; i < width - 1; i++) {
+    for (int i = 1; i < width - 1; i++)
+    {
         printf("=");
     }
 }
