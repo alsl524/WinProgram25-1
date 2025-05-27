@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "needle clock", "needle clock.vcxproj", "{BF43D6EA-00E1-4A02-A31E-E493D431F230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF43D6EA-00E1-4A02-A31E-E493D431F230}.Debug|x64.ActiveCfg = Debug|x64
+		{BF43D6EA-00E1-4A02-A31E-E493D431F230}.Debug|x64.Build.0 = Debug|x64
+		{BF43D6EA-00E1-4A02-A31E-E493D431F230}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF43D6EA-00E1-4A02-A31E-E493D431F230}.Debug|x86.Build.0 = Debug|Win32
+		{BF43D6EA-00E1-4A02-A31E-E493D431F230}.Release|x64.ActiveCfg = Release|x64
+		{BF43D6EA-00E1-4A02-A31E-E493D431F230}.Release|x64.Build.0 = Release|x64
+		{BF43D6EA-00E1-4A02-A31E-E493D431F230}.Release|x86.ActiveCfg = Release|Win32
+		{BF43D6EA-00E1-4A02-A31E-E493D431F230}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23C94539-3ED4-4594-BCBB-BA8F4DE5FDED}
+	EndGlobalSection
+EndGlobal
